@@ -1,5 +1,5 @@
 # Learning Python
-Code examples and notes from the learning python course on [learnpython.org](www.learnpython.org).
+Code examples and notes from the learning python course on [learnpython.org](www.learnpython.org) using [repl.it](repl.it) online IDE.
 
 ### Basic Python
 
