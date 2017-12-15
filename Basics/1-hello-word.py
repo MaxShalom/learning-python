@@ -1,4 +1,4 @@
-# Tutorial: https://www.learnpython.org/en/Hello%2C_World%21
+# Tutorial: https://www.learnpython.org/en/Hello,_World!
 
 # Hello World
 print("Hello World!")
