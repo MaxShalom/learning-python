@@ -8,5 +8,6 @@ Code examples and notes from the learning python course on [learnpython.org](www
 3. [Lists](https://github.com/MaxShalom/learning-python/blob/master/Basics/3-lists.py) - How to make, define, and call back lists.
 4. [Basic Operators](https://github.com/MaxShalom/learning-python/blob/master/Basics/4-basic-operators.py) - Math in Python and multiplying variables and data types.
 5. [String Formatting](https://github.com/MaxShalom/learning-python/blob/master/Basics/5-string-formatting.py) - Calling back strings and other data to be put in output.
+6. [Basic String Operations](https://github.com/MaxShalom/learning-python/blob/master/Basics/6-basic-string-operations.py) - Interacting with strings including, case of letters and splicing.
 
 Hope this helps someone.
