@@ -1,3 +1,4 @@
+
 # Learning Python
 Code examples and notes from the learning python course on [learnpython.org](www.learnpython.org) using [repl.it](https://repl.it) online IDE. I will be adding new lessons and links as I go along with the course.
 
@@ -10,5 +11,6 @@ Code examples and notes from the learning python course on [learnpython.org](www
 5. [String Formatting](https://github.com/MaxShalom/learning-python/blob/master/Basics/5-string-formatting.py) - Calling back strings and other data to be put in output.
 6. [Basic String Operations](https://github.com/MaxShalom/learning-python/blob/master/Basics/6-basic-string-operations.py) - Interacting with strings including, case of letters and splicing.
 7. [Conditions](https://github.com/MaxShalom/learning-python/blob/master/Basics/7-conditions.py) - How to use boolean and operator conditions with variables.
+8. [Loops](https://github.com/MaxShalom/learning-python/blob/master/Basics/8-loops.py) - "for" and "while" loops in Python to set conditions or a set number of times for your code to run.
 
 Hope this helps someone.
